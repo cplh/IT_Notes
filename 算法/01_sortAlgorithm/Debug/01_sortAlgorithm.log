@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/9/26 21:44:47。
+     1>项目“E:\ProgramDemo\VS2013\SaveProc\SavedProcedure\01_sortAlgorithm\01_sortAlgorithm\01_sortAlgorithm.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp sortAlgorithm.cpp
+         sortAlgorithm.cpp
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(170): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(237): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\programdemo\vs2013\saveproc\savedprocedure\01_sortalgorithm\01_sortalgorithm\sortalgorithm.cpp(458): warning C4018: “<”: 有符号/无符号不匹配
+         main.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ProgramDemo\VS2013\SaveProc\SavedProcedure\01_sortAlgorithm\01_sortAlgorithm\Debug\01_sortAlgorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ProgramDemo\VS2013\SaveProc\SavedProcedure\01_sortAlgorithm\01_sortAlgorithm\Debug\01_sortAlgorithm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ProgramDemo\VS2013\SaveProc\SavedProcedure\01_sortAlgorithm\01_sortAlgorithm\Debug\01_sortAlgorithm.lib" /MACHINE:X86 Debug\main.obj
+         Debug\sortAlgorithm.obj
+         01_sortAlgorithm.vcxproj -> E:\ProgramDemo\VS2013\SaveProc\SavedProcedure\01_sortAlgorithm\01_sortAlgorithm\Debug\01_sortAlgorithm.exe
+     1>已完成生成项目“E:\ProgramDemo\VS2013\SaveProc\SavedProcedure\01_sortAlgorithm\01_sortAlgorithm\01_sortAlgorithm.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.24
